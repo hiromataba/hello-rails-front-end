@@ -34,6 +34,7 @@ yarn
 
 ```bash
 yarn start
+```
 
 👤 **Aganze Mataba Henri**
 
