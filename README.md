@@ -40,7 +40,7 @@ yarn start
 
 - GitHub: [@hiromataba](https://github.com/hiromataba)
 - Twitter: [@twitterhandle](https://twitter.com/MatabaHiro)
-- LinkedIn: [Hiro Mataba](https://www.linkedin.com/in/hiro-mataba-1bb910
+- LinkedIn: [Hiro Mataba](https://www.linkedin.com/in/hiro-mataba-1bb910)
 
 ## 🤝 Contributing
 
